@@ -140,14 +140,21 @@ const wallaceMendoza = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wallacemendoza&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=6DB33F&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacemendoza&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wallacemendoza&theme=radical&hide_border=true&background=0d1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35)](https://git.io/streak-stats)
+```
+╔════════════════════════════════════════════════════════════════╗
+║                    CONTRIBUTION METRICS                         ║
+╠════════════════════════════════════════════════════════════════╣
+║                                                                 ║
+║  📊 Total Contributions:  36   (Feb 5 - Present)               ║
+║  🔥 Current Streak:       1    (Feb 15)                        ║
+║  🏆 Longest Streak:       3    (Feb 8 - Feb 10)                ║
+║                                                                 ║
+║  💻 Languages:            Java, TypeScript, JavaScript          ║
+║  📈 Most Active:          Spring Boot Projects                  ║
+║  ⭐ Repositories:         10+ Public Repos                      ║
+║                                                                 ║
+╚════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -179,6 +186,22 @@ const wallaceMendoza = {
 |**Cloud Architecture**  |Docker, AWS, Kubernetes         |`████████████████░░░░` 80% |
 |**Version Control**     |Git, GitLab, GitHub Actions     |`████████████████████` 100%|
 |**System Design**       |MVC, Microservices, REST APIs   |`██████████████████░░` 90% |
+
+-----
+
+## `REPOSITORY_SHOWCASE`
+
+<div align="center">
+
+|Repository                                                                          |Description        |Tech Stack                                                                                                                                                                                                        |
+|:-----------------------------------------------------------------------------------|:------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|[`back-end-programming`](https://github.com/wallacemendoza/back-end-programming)    |E-Commerce Platform|![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)            |
+|[`advanced-java`](https://github.com/wallacemendoza/advanced-java)                  |Cloud Microservice |![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)            |
+|[`java-frameworks`](https://github.com/wallacemendoza/java-frameworks)              |Inventory System   |![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)|
+|[`javascript-programming`](https://github.com/wallacemendoza/javascript-programming)|World Map Explorer |![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white)  |
+|[`version-control`](https://github.com/wallacemendoza/version-control)              |Git Workflows      |![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)                                                                                                                       |
+
+</div>
 
 -----
 
