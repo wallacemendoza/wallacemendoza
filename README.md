@@ -58,35 +58,79 @@ const wallaceMendoza = {
 <tr>
 <td valign="top" width="33%">
 
-### 🔥 **Backend Engineering**
+### 🔥 Backend Engineering
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=flat-square)
+
+</td>
+
+<td valign="top" width="33%">
+
+### 🗄 Database & Data Engineering
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=databricks&logoColor=white)
+![Database Design](https://img.shields.io/badge/Schema-Design-darkgreen?style=flat-square)
+![Normalization](https://img.shields.io/badge/Relational-Normalization-teal?style=flat-square)
+![Connection Pooling](https://img.shields.io/badge/Connection-Pooling-orange?style=flat-square)
 
 </td>
+
 <td valign="top" width="33%">
 
-### ⚡ **Frontend Development**
+### 🤖 Machine Learning & Analytics
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data-Visualization-purple?style=flat-square)
+![Model Training](https://img.shields.io/badge/ML-Model_Training-red?style=flat-square)
+![Feature Engineering](https://img.shields.io/badge/Feature-Engineering-blueviolet?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="33%">
+
+### 🎨 Frontend Development
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Fetch API](https://img.shields.io/badge/Fetch-API-yellow?style=flat-square)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 
 </td>
+
 <td valign="top" width="33%">
 
-### 🚀 **Cloud & DevOps**
+### ☁ Deployment & DevOps
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Environment Variables](https://img.shields.io/badge/.env-Configuration-lightgrey?style=flat-square)
+![Cloud Deployment](https://img.shields.io/badge/Cloud-Ready-success?style=flat-square)
+
+</td>
+
+<td valign="top" width="33%">
+
+### ⚙ Engineering Practices
+
+![Async/Await](https://img.shields.io/badge/Async-Await-blue?style=flat-square)
+![Transactions](https://img.shields.io/badge/DB-Transactions-darkred?style=flat-square)
+![CRUD](https://img.shields.io/badge/CRUD-Operations-orange?style=flat-square)
+![API Design](https://img.shields.io/badge/API-Design-9cf?style=flat-square)
+![MVC Architecture](https://img.shields.io/badge/MVC-Pattern-lightblue?style=flat-square)
+![Error Handling](https://img.shields.io/badge/Error-Handling-critical?style=flat-square)
 
 </td>
 </tr>
