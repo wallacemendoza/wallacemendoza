@@ -9,13 +9,13 @@
 
 <div align="center">
 
-### `SOFTWARE_ENGINEER` × `CLOUD_ARCHITECT` × `FULL_STACK_DEVELOPER`
+### `SOFTWARE_ENGINEER` × `MACHINE_LEARNING` × `CLOUD_ARCHITECT`
 
 ```yaml
-status: "AWS Certified | Building production-grade cloud infrastructure"
+status: "AWS Certified (DevOps Pro | ML Engineer Associate) | Building applied AI on production infrastructure"
 location: "United States"
-focus: ["Enterprise Java", "Cloud Architecture", "Scalable Systems", "DevOps"]
-currently: "Engineering robust microservices & cloud-native applications"
+focus: ["Applied Machine Learning", "Deep Learning", "Enterprise Java", "Cloud Architecture", "DevOps"]
+currently: "Bringing ML into industrial reliability and condition monitoring systems"
 ```
 
 [![LinkedIn](https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallacemendoza/)
@@ -30,7 +30,7 @@ currently: "Engineering robust microservices & cloud-native applications"
 
 ```javascript
 const wallaceMendoza = {
-    role: "Software Engineer",
+    role: "Software Engineer | Machine Learning",
     education: "BS Software Engineering | BS Mechanical Engineering",
     certifications: [
         "AWS Certified DevOps Engineer - Professional",
@@ -39,6 +39,7 @@ const wallaceMendoza = {
         "ITIL 4 Foundation"
     ],
     stack: {
+        ml: ["TensorFlow", "Keras", "scikit-learn", "NumPy", "pandas", "NLTK"],
         backend: ["Java", "Spring Boot", "Python", "Node.js", "REST APIs"],
         frontend: ["Angular", "TypeScript", "React", "JavaScript"],
         mobile: ["Android (Java)", "Room Database", "Material Design"],
@@ -47,13 +48,15 @@ const wallaceMendoza = {
         tools: ["Git", "Maven", "IntelliJ", "VS Code", "Linux"]
     },
     currentFocus: [
+        "🧠 Deep learning: CNNs, transfer learning, model robustness",
+        "💬 Natural language processing & text classification pipelines",
         "☁️ AWS cloud architecture & Infrastructure as Code",
-        "🏗️ Microservices with Spring Boot & Docker", 
-        "🚀 Full-stack development with modern frameworks",
+        "🏗️ Microservices with Spring Boot & Docker",
         "⚡ System design & performance optimization"
     ],
     architecture: ["MVC", "Microservices", "Three-Tier", "Event-Driven"],
     expertise: [
+        "Applied machine learning: training, tuning, and evaluating models",
         "Backend development with Java/Spring ecosystem",
         "Cloud infrastructure design & deployment (AWS)",
         "Database design & optimization (SQL/NoSQL)",
@@ -64,10 +67,58 @@ const wallaceMendoza = {
 
 ---
 
+## `AI_ML_FOCUS`
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  🧠 DEEP LEARNING                                                     ║
+║  Convolutional architectures & transfer learning                     ║
+║  • Pretrained backbones adapted to new classification tasks          ║
+║  • Systematic hyperparameter search over architecture & optimizer    ║
+║  • Evaluation beyond accuracy: confusion analysis, error review,     ║
+║    and model behavior under corrupted or degraded inputs             ║
+║  └─→ TensorFlow × Keras × Keras Tuner × NumPy × Matplotlib           ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+╔══════════════════════════════════════════════════════════════════════╗
+║  💬 NATURAL LANGUAGE PROCESSING                                       ║
+║  End-to-end text classification pipelines                            ║
+║  • Corpus construction, deduplication & class balancing              ║
+║  • Tokenization, normalization, stopword & vocabulary handling       ║
+║  • Reproducible preprocessing with fixed random seeds                ║
+║  └─→ Python × NLTK × pandas × scikit-learn                           ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+╔══════════════════════════════════════════════════════════════════════╗
+║  ⚙️ APPLIED AI FOR RELIABILITY ENGINEERING                            ║
+║  Where the ML work meets the day job                                 ║
+║  • Condition monitoring & vibration data at industrial scale         ║
+║  • Reducing false-positive alarm rates in production systems         ║
+║  • Turning sensor telemetry into maintenance decisions               ║
+║  └─→ Python × Time-Series Analysis × Dashboards × AWS                ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
 ## `TECH_ARSENAL`
 
 <table>
 <tr>
+<td valign="top" width="33%">
+
+### 🧠 AI & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square)
+
+</td>
+
 <td valign="top" width="33%">
 
 ### 🔥 Backend Engineering
@@ -95,7 +146,9 @@ const wallaceMendoza = {
 ![CI/CD](https://img.shields.io/badge/CI/CD-Pipelines-success?style=flat-square)
 
 </td>
+</tr>
 
+<tr>
 <td valign="top" width="33%">
 
 ### 🎨 Frontend Development
@@ -109,9 +162,7 @@ const wallaceMendoza = {
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 </td>
-</tr>
 
-<tr>
 <td valign="top" width="33%">
 
 ### 🗄️ Database & Data
@@ -136,6 +187,20 @@ const wallaceMendoza = {
 ![RecyclerView](https://img.shields.io/badge/RecyclerView-UI-green?style=flat-square)
 
 </td>
+</tr>
+
+<tr>
+<td valign="top" width="33%">
+
+### 🔬 ML Practices
+
+![Transfer Learning](https://img.shields.io/badge/Transfer-Learning-8E44AD?style=flat-square)
+![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter-Tuning-2980B9?style=flat-square)
+![Model Evaluation](https://img.shields.io/badge/Model-Evaluation-16A085?style=flat-square)
+![Reproducibility](https://img.shields.io/badge/Reproducible-Pipelines-27AE60?style=flat-square)
+![Robustness](https://img.shields.io/badge/Robustness-Testing-C0392B?style=flat-square)
+
+</td>
 
 <td valign="top" width="33%">
 
@@ -147,6 +212,18 @@ const wallaceMendoza = {
 ![Multi-AZ](https://img.shields.io/badge/Multi_AZ-HA-00C853?style=flat-square)
 ![Auto Scaling](https://img.shields.io/badge/Auto-Scaling-orange?style=flat-square)
 ![IaC](https://img.shields.io/badge/Infrastructure-as_Code-purple?style=flat-square)
+
+</td>
+
+<td valign="top" width="33%">
+
+### 🏭 Domain Knowledge
+
+![Reliability](https://img.shields.io/badge/Reliability-Engineering-34495E?style=flat-square)
+![Condition Monitoring](https://img.shields.io/badge/Condition-Monitoring-7F8C8D?style=flat-square)
+![Vibration Analysis](https://img.shields.io/badge/Vibration-Analysis-D35400?style=flat-square)
+![Predictive Maintenance](https://img.shields.io/badge/Predictive-Maintenance-1ABC9C?style=flat-square)
+![Six Sigma](https://img.shields.io/badge/Six_Sigma-Green_Belt-2C3E50?style=flat-square)
 
 </td>
 </tr>
@@ -247,13 +324,15 @@ const wallaceMendoza = {
 
 |Domain|Technologies|Proficiency|
 |------|-----------|-----------|
-|**Backend Development**|Java, Spring Boot, Python, Node.js|`████████████████████` 100%|
-|**Database Design**|MySQL, PostgreSQL, JPA/Hibernate|`██████████████████░░` 90%|
-|**Frontend Engineering**|Angular, TypeScript, React|`█████████████████░░░` 85%|
+|**Backend Development**|Java, Spring Boot, Python, Node.js|`██████████████████░░` 90%|
+|**Version Control**|Git, GitHub, GitLab|`██████████████████░░` 90%|
+|**Database Design**|MySQL, PostgreSQL, JPA/Hibernate|`█████████████████░░░` 85%|
+|**System Design**|Microservices, Three-Tier, REST APIs|`█████████████████░░░` 85%|
+|**Frontend Engineering**|Angular, TypeScript, React|`████████████████░░░░` 80%|
 |**Cloud Architecture**|AWS, Docker, Terraform, Kubernetes|`████████████████░░░░` 80%|
-|**Mobile Development**|Android (Java), Room, Material Design|`█████████████████░░░` 85%|
-|**Version Control**|Git, GitHub, GitLab|`████████████████████` 100%|
-|**System Design**|Microservices, Three-Tier, REST APIs|`██████████████████░░` 90%|
+|**Mobile Development**|Android (Java), Room, Material Design|`████████████████░░░░` 80%|
+|**Deep Learning**|TensorFlow, Keras, CNNs, Transfer Learning|`███████████████░░░░░` 75%|
+|**Natural Language Processing**|NLTK, Text Pipelines, Classification|`██████████████░░░░░░` 70%|
 
 ---
 
@@ -293,13 +372,13 @@ const contact: ContactInfo = {
     github: "https://github.com/wallacemendoza"
 };
 
-// Open to opportunities in software engineering, cloud architecture, 
-// and full-stack development roles.
+// Open to opportunities in machine learning engineering, software 
+// engineering, and cloud architecture.
 ```
 
 ### 📬 **Professional Collaboration**
 
-Experienced in building enterprise-grade applications, designing cloud infrastructure, and implementing scalable solutions. Available for discussions on software architecture, cloud deployment strategies, and system design.
+Experienced in building enterprise-grade applications, designing cloud infrastructure, and applying machine learning to industrial reliability problems. Available for discussions on ML systems, software architecture, cloud deployment strategies, and predictive maintenance.
 
 **[LinkedIn](https://www.linkedin.com/in/wallacemendoza/)** • **[Portfolio](https://wallacemendoza.github.io/portfolio/)** • **[Email](mailto:wmendoza.dev@outlook.com)**
 
@@ -311,7 +390,7 @@ Experienced in building enterprise-grade applications, designing cloud infrastru
 
 ### `STACK_SIGNATURE`
 
-`JAVA` • `SPRING_BOOT` • `PYTHON` • `AWS` • `TERRAFORM` • `DOCKER` • `ANGULAR` • `ANDROID` • `MYSQL`
+`PYTHON` • `TENSORFLOW` • `KERAS` • `JAVA` • `SPRING_BOOT` • `AWS` • `TERRAFORM` • `DOCKER` • `ANGULAR` • `MYSQL`
 
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
